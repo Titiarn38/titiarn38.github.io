@@ -521,26 +521,26 @@ img {
 }
 
 .skills__php{
-    width: 50%;
+    width: 80%;
 }
 .skills__node{
     width: 10%;
 }
 .skills__cyber{
-    width: 15%;
+    width: 25%;
 }
 .skills__python{
-    width: 25%;
+    width: 45%;
 }
 
 .skills__figma{
-    width: 60%;
+    width: 70%;
 }
 .skills__canva{
-    width: 80%;
+    width: 85%;
 }
 .skills__photoshop{
-    width: 30%;
+    width: 60%;
 }
 
 .skills__close .skills__list{
